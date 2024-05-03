@@ -59,3 +59,7 @@
 Remember to associate each subnet with an appropriate route table to control outbound traffic. - Pay attention to the CIDR block size to ensure sufficient IP addresses for your resources. - Consider high availability by distributing subnets across multiple AZs. - Test connectivity between subnets and verify routing configurations.
 
 Subnets play a crucial role in organizing your network resources within a VPC. Properly designed subnets enhance security, scalability, and manageability.
+
+## References
+
+https://www.youtube.com/watch?v=ydxEeVAqVdo&list=RDCMUC7p4oXcPbgk_yTSHK7QlkSg&start_radio=1
